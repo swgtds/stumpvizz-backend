@@ -37,7 +37,7 @@ const menMatches = [
     streamUrl: "/videos/prime.html",
     match: {
       team1: "Afghanistan",
-      team2: "South Africa",
+      team2: "England",
       date: "2025-02-26",
       thumbnail: "https://thesportsprince.com/wp-content/uploads/2024/12/7-2.webp",
     },
