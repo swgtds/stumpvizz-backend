@@ -8,7 +8,7 @@ const menMatches = [
     name: "Live Match 1",
     startTime: "14:30",
     endTime: "23:00",
-    streamUrl: "/videos/willow-by-cricbuzz.html",
+    streamUrl: "/videos/prime.html",
     match: {
       team1: "Pakistan",
       team2: "New Zealand",
@@ -21,7 +21,7 @@ const menMatches = [
     name: "Live Match 2",
     startTime: "14:30",
     endTime: "23:00",
-    streamUrl: "/videos/willow-by-cricbuzz.html",
+    streamUrl: "/videos/prime.html",
     match: {
       team1: "India",
       team2: "Bangladesh",
@@ -34,7 +34,7 @@ const menMatches = [
     name: "Live Match 3",
     startTime: "14:30",
     endTime: "23:00",
-    streamUrl: "/videos/willow-by-cricbuzz.html",
+    streamUrl: "/videos/prime.html",
     match: {
       team1: "Afghanistan",
       team2: "South Africa",
@@ -47,7 +47,7 @@ const menMatches = [
     name: "Live Match 4",
     startTime: "14:30",
     endTime: "23:00",
-    streamUrl: "/videos/willow-by-cricbuzz.html",
+    streamUrl: "/videos/prime.html",
     match: {
       team1: "Australia",
       team2: "England",
@@ -60,7 +60,7 @@ const menMatches = [
     name: "Live Match 5",
     startTime: "14:20",
     endTime: "23:00",
-    streamUrl: "/videos/willow-by-cricbuzz.html",
+    streamUrl: "/videos/prime.html",
     match: {
       team1: "India",
       team2: "Pakistan",
