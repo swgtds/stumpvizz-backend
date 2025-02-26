@@ -8,7 +8,7 @@ const menMatches = [
     name: "Live Match 1",
     startTime: "14:15",
     endTime: "22:30",
-    streamUrl: "/videos/prime.html",
+    streamUrl: "/videos/jiostar.html",
     match: {
       team1: "Bangldesh",
       team2: "New Zealand",
@@ -21,7 +21,7 @@ const menMatches = [
     name: "Live Match 2",
     startTime: "14:15",
     endTime: "22:30",
-    streamUrl: "/videos/prime.html",
+    streamUrl: "/videos/jiostar.html",
     match: {
       team1: "Australia",
       team2: "South Africa",
@@ -34,7 +34,7 @@ const menMatches = [
     name: "Live Match 3",
     startTime: "14:15",
     endTime: "22:30",
-    streamUrl: "/videos/prime.html",
+    streamUrl: "/videos/jiostar.html",
     match: {
       team1: "Afghanistan",
       team2: "England",
@@ -47,7 +47,7 @@ const menMatches = [
     name: "Live Match 4",
     startTime: "14:15",
     endTime: "22:30",
-    streamUrl: "/videos/prime.html",
+    streamUrl: "/videos/jiostar.html",
     match: {
       team1: "Pakistan",
       team2: "Bangladesh",
@@ -60,7 +60,7 @@ const menMatches = [
     name: "Live Match 5",
     startTime: "14:15",
     endTime: "22:30",
-    streamUrl: "/videos/prime.html",
+    streamUrl: "/videos/jiostar.html",
     match: {
       team1: "Afghanistan",
       team2: "Australia",
