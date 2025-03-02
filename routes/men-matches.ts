@@ -8,7 +8,7 @@ const menMatches = [
     name: "Live Match 1",
     startTime: "14:15",
     endTime: "23:30",
-    streamUrl: "/videos/jiostar.html",
+    streamUrl: "/videos/prime.html",
     match: {
       team1: "India",
       team2: "New Zealand",
