@@ -13,7 +13,7 @@ const menMatches = [
       team1: "India",
       team2: "Australia(SF-1)",
       date: "2025-03-04",
-      thumbnail: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBangsTOhYT_-eli9pvcvuNGqxn0tQHWYBvA&s",
+      thumbnail: "https://thesportsprince.com/wp-content/uploads/2024/12/7-2.webphttps://thesportsprince.com/wp-content/uploads/2024/12/7-2.webp",
     },
   },
   {
