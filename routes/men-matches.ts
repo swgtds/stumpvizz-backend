@@ -8,12 +8,12 @@ const menMatches = [
     name: "Live Match 1",
     startTime: "14:15",
     endTime: "23:00",
-    streamUrl: "/videos/criclife.html",
+    streamUrl: "/videos/willow-sports.html",
     match: {
       team1: "India",
       team2: "Australia(SF-1)",
       date: "2025-03-04",
-      thumbnail: "https://thesportsprince.com/wp-content/uploads/2024/12/7-2.webphttps://thesportsprince.com/wp-content/uploads/2024/12/7-2.webp",
+      thumbnail: "https://thesportsprince.com/wp-content/uploads/2024/12/7-2.webp",
     },
   },
   {
@@ -21,7 +21,7 @@ const menMatches = [
     name: "Live Match 2",
     startTime: "14:15",
     endTime: "23:00",
-    streamUrl: "/videos/criclife.html",
+    streamUrl: "/videos/willow-cricket.html",
     match: {
       team1: "South Africa",
       team2: "New Zealand(SF-2)",

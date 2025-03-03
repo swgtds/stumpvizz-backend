@@ -8,7 +8,7 @@ const womenMatches = [
     name: "Women's Match 1",
     startTime: "19:30",
     endTime: "23:00",
-    streamUrl: "/videos/star-sports-1.html",
+    streamUrl: "/videos/willow-sports.html",
     match: {
       team1: "Royal Challengers Bangalore",
       team2: "Delhi Capitals",
@@ -21,7 +21,7 @@ const womenMatches = [
     name: "Women's Match 2",
     startTime: "19:30",
     endTime: "23:00",
-    streamUrl: "/videos/star-sports-1.html",
+    streamUrl: "/videos/willow-sports.html",
     match: {
       team1: "Gujarat Giants",
       team2: "UP Warriorz",
@@ -34,7 +34,7 @@ const womenMatches = [
     name: "Women's Match 3",
     startTime: "19:30",
     endTime: "23:00",
-    streamUrl: "/videos/star-sports-1.html",
+    streamUrl: "/videos/willow-sports.html",
     match: {
       team1: "UP Warriorz",
       team2: "Mumbai Indians",
@@ -47,7 +47,7 @@ const womenMatches = [
     name: "Women's Match 4",
     startTime: "19:30",
     endTime: "23:00",
-    streamUrl: "/videos/star-sports-1.html",
+    streamUrl: "/videos/willow-sports.html",
     match: {
       team1: "Gujarat Giants",
       team2: "Delhi Capitals",
@@ -60,7 +60,7 @@ const womenMatches = [
     name: "Women's Match 5",
     startTime: "19:30",
     endTime: "23:00",
-    streamUrl: "/videos/star-sports-1.html",
+    streamUrl: "/videos/willow-sports.html",
     match: {
       team1: "Royal Challengers Bangalore",
       team2: "UP Warriorz",
