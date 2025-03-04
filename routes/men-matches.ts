@@ -8,7 +8,7 @@ const menMatches = [
     name: "Live Match 1",
     startTime: "14:15",
     endTime: "23:00",
-    streamUrl: "/videos/willow-sports.html",
+    streamUrl: "/videos/prime.html",
     match: {
       team1: "India",
       team2: "Australia(SF-1)",
@@ -21,7 +21,7 @@ const menMatches = [
     name: "Live Match 2",
     startTime: "14:15",
     endTime: "23:00",
-    streamUrl: "/videos/willow-cricket.html",
+    streamUrl: "/videos/jiostar.html",
     match: {
       team1: "South Africa",
       team2: "New Zealand(SF-2)",
