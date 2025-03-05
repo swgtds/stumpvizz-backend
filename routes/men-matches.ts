@@ -4,15 +4,15 @@ const router = Router();
 
 const menMatches = [
   {
-    id: "ind-vs-aus",
+    id: "ind-vs-sa",
     name: "Live Match 1",
     startTime: "14:15",
     endTime: "23:00",
     streamUrl: "/videos/prime.html",
     match: {
       team1: "India",
-      team2: "Australia(SF-1)",
-      date: "2025-03-04",
+      team2: "New Zealand(Final)",
+      date: "2025-03-09",
       thumbnail: "https://thesportsprince.com/wp-content/uploads/2024/12/7-2.webp",
     },
   },
@@ -21,7 +21,7 @@ const menMatches = [
     name: "Live Match 2",
     startTime: "14:15",
     endTime: "23:00",
-    streamUrl: "/videos/jiostar.html",
+    streamUrl: "/videos/jio-hotstar.html",
     match: {
       team1: "South Africa",
       team2: "New Zealand(SF-2)",
