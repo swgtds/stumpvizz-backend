@@ -21,7 +21,7 @@ const menMatches = [
     name: "Live Match 2",
     startTime: "14:15",
     endTime: "23:00",
-    streamUrl: "/videos/jio-hotstar.html",
+    streamUrl: "/videos/prime.html",
     match: {
       team1: "South Africa",
       team2: "New Zealand(SF-2)",
