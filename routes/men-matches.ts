@@ -4,16 +4,16 @@ const router = Router();
 
 const menMatches = [
   {
-    id: "ind-vs-sa",
+    id: "kkr-vs-rcb",
     name: "Live Match 1",
-    startTime: "14:00",
+    startTime: "19:20",
     endTime: "23:00",
     streamUrl: "/videos/prime.html",
     match: {
-      team1: "India",
-      team2: "New Zealand(Final)",
-      date: "2025-03-09",
-      thumbnail: "https://img.jagranjosh.com/images/2025/March/532025/ind-vs-nz-icc-champions-trophy-2025.webp",
+      team1: "Kolkata Knight Riders",
+      team2: "Royal Challengers Bangalore",
+      date: "2025-03-22",
+      thumbnail: "https://www.fantasyarena.in/images/1644927202_ipl.jpg",
     },
   },
 ];
