@@ -6,9 +6,9 @@ const menMatches = [
   {
     id: "kkr-vs-rcb",
     name: "Live Match 1",
-    startTime: "19:20",
-    endTime: "23:00",
-    streamUrl: "/videos/prime.html",
+    startTime: "18:00",
+    endTime: "23:30",
+    streamUrl: "/videos/willow-sports.html",
     match: {
       team1: "Kolkata Knight Riders",
       team2: "Royal Challengers Bangalore",
