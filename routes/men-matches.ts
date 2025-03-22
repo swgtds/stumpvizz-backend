@@ -8,7 +8,7 @@ const menMatches = [
     name: "Live Match 1",
     startTime: "18:00",
     endTime: "23:30",
-    streamUrl: "/videos/willow-sports.html",
+    streamUrl: "/videos/t-sports.html",
     match: {
       team1: "Kolkata Knight Riders",
       team2: "Royal Challengers Bangalore",
