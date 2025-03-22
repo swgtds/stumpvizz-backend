@@ -4,15 +4,15 @@ const router = Router();
 
 const menMatches = [
   {
-    id: "kkr-vs-rcb",
+    id: "srh-vs-rr",
     name: "Live Match 1",
-    startTime: "18:00",
-    endTime: "23:30",
+    startTime: "14:00",
+    endTime: "18:30",
     streamUrl: "/videos/t-sports.html",
     match: {
-      team1: "Kolkata Knight Riders",
-      team2: "Royal Challengers Bangalore",
-      date: "2025-03-22",
+      team1: "Sunrisers Hyderabad",
+      team2: "Rajasthan Royals",
+      date: "2025-03-23",
       thumbnail: "https://www.fantasyarena.in/images/1644927202_ipl.jpg",
     },
   },
