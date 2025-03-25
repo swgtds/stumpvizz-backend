@@ -3,14 +3,12 @@ import { Router } from "express";
 const router = Router();
 
 const menMatches = [
- 
-  
   {
     id: "dc-vs-lsg",
     name: "Live Match 3",
     startTime: "18:30",
     endTime: "23:30",
-    streamUrl: "/videos/t-sports.html",
+    streamUrl: "/videos/ipl-2025-all.html",
     match: {
       team1: "Delhi Capitals",
       team2: "Lucknow Super Giants",
@@ -23,7 +21,7 @@ const menMatches = [
     name: "Live Match 4",
     startTime: "18:30",
     endTime: "23:30",
-    streamUrl: "/videos/t-sports.html",
+    streamUrl: "/videos/ipl-2025-all.html",
     match: {
       team1: "Gujarat Titans",
       team2: "punjab Kings",
@@ -36,7 +34,7 @@ const menMatches = [
     name: "Live Match 5",
     startTime: "18:30",
     endTime: "23:30",
-    streamUrl: "/videos/t-sports.html",
+    streamUrl: "/videos/ipl-2025-all.html",
     match: {
       team1: "Rajasthan Royals",
       team2: "Kolkata Knight Riders",
@@ -49,7 +47,7 @@ const menMatches = [
     name: "Live Match 6",
     startTime: "18:30",
     endTime: "23:30",
-    streamUrl: "/videos/t-sports.html",
+    streamUrl: "/videos/ipl-2025-all.html",
     match: {
       team1: "Sunrisers Hyderabad",
       team2: "Lucknow Super Giants",
@@ -62,7 +60,7 @@ const menMatches = [
     name: "Live Match 7",
     startTime: "18:30",
     endTime: "19:15",
-    streamUrl: "/videos/t-sports.html",
+    streamUrl: "/videos/ipl-2025-all.html",
     match: {
       team1: "Chennai Super Kings",
       team2: "Royal Challengers Bangalore",
@@ -73,9 +71,9 @@ const menMatches = [
   {
     id: "gt-vs-mi",
     name: "Live Match 8",
-    startTime: "19:00",
+    startTime: "18:30",
     endTime: "23:30",
-    streamUrl: "/videos/t-sports.html",
+    streamUrl: "/videos/ipl-2025-all.html",
     match: {
       team1: "Gujarat Titans",
       team2: "Mumbai Indians",
