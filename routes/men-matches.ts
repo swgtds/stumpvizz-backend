@@ -8,7 +8,7 @@ const menMatches = [
     name: "Live Match 3",
     startTime: "18:30",
     endTime: "23:30",
-    streamUrl: "/videos/ipl-2025-all.html",
+    streamUrl: "/videos/ipl-2025.html",
     match: {
       team1: "Delhi Capitals",
       team2: "Lucknow Super Giants",
@@ -21,7 +21,7 @@ const menMatches = [
     name: "Live Match 4",
     startTime: "18:30",
     endTime: "23:30",
-    streamUrl: "/videos/ipl-2025-all.html",
+    streamUrl: "/videos/ipl-2025.html",
     match: {
       team1: "Gujarat Titans",
       team2: "punjab Kings",
@@ -34,7 +34,7 @@ const menMatches = [
     name: "Live Match 5",
     startTime: "18:30",
     endTime: "23:30",
-    streamUrl: "/videos/ipl-2025-all.html",
+    streamUrl: "/videos/ipl-2025.html",
     match: {
       team1: "Rajasthan Royals",
       team2: "Kolkata Knight Riders",
@@ -47,7 +47,7 @@ const menMatches = [
     name: "Live Match 6",
     startTime: "18:30",
     endTime: "23:30",
-    streamUrl: "/videos/ipl-2025-all.html",
+    streamUrl: "/videos/ipl-2025.html",
     match: {
       team1: "Sunrisers Hyderabad",
       team2: "Lucknow Super Giants",
@@ -60,10 +60,10 @@ const menMatches = [
     name: "Live Match 7",
     startTime: "18:30",
     endTime: "19:15",
-    streamUrl: "/videos/ipl-2025-all.html",
+    streamUrl: "/videos/ipl-2025.html",
     match: {
       team1: "Chennai Super Kings",
-      team2: "Royal Challengers Bangalore",
+      team2: "Royal Cengers Bangalore",
       date: "2025-03-28",
       thumbnail: "https://www.fantasyarena.in/images/1644927202_ipl.jpg",
     },
@@ -73,7 +73,7 @@ const menMatches = [
     name: "Live Match 8",
     startTime: "18:30",
     endTime: "23:30",
-    streamUrl: "/videos/ipl-2025-all.html",
+    streamUrl: "/videos/ipl-2025.html",
     match: {
       team1: "Gujarat Titans",
       team2: "Mumbai Indians",
