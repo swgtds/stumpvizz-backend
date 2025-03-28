@@ -59,11 +59,11 @@ const menMatches = [
     id: "csk-vs-rcb",
     name: "Live Match 7",
     startTime: "18:30",
-    endTime: "19:15",
+    endTime: "23:30",
     streamUrl: "/videos/ipl-2025.html",
     match: {
       team1: "Chennai Super Kings",
-      team2: "Royal Cengers Bangalore",
+      team2: "Royal Challengers Bangalore",
       date: "2025-03-28",
       thumbnail: "https://www.fantasyarena.in/images/1644927202_ipl.jpg",
     },
