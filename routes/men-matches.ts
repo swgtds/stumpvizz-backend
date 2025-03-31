@@ -4,28 +4,15 @@ const router = Router();
 
 const menMatches = [
   {
-    id: "srh-vs-dc",
+    id: "mi-vs-kkr",
     name: "Live Match 1",
-    startTime: "13:30",
-    endTime: "19:15",
-    streamUrl: "/videos/ipl-2025.html",
+    startTime: "18:30",
+    endTime: "23:30",
+    streamUrl: "/videos/willow-cricket-1.html",
     match: {
-      team1: "Sunrisers Hyderabad",
-      team2: "Delhi Capitals",
-      date: "2025-03-30",
-      thumbnail: "https://www.fantasyarena.in/images/1644927202_ipl.jpg",
-    },
-  },
-  {
-    id: "rr-vs-csk",
-    name: "Live Match 2",
-    startTime: "19:00",
-    endTime: "23:45",
-    streamUrl: "/videos/ipl-2025.html",
-    match: {
-      team1: "Rajasthan Royals",
-      team2: "Chennai Super Kings",
-      date: "2025-03-30",
+      team1: "Mumbai Indians",
+      team2: "Kolkata Knight Riders",
+      date: "2025-03-31",
       thumbnail: "https://www.fantasyarena.in/images/1644927202_ipl.jpg",
     },
   },
