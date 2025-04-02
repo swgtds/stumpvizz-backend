@@ -1,7 +1,7 @@
 import { Router } from "express";
 
 const router = Router();
-const streamLink = "https://webplayer-live.pages.dev/?url=https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8"; 
+const streamLink = "/videos/willow-cricket-1.html"; 
 
 const menMatches = [
   {
