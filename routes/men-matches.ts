@@ -5,7 +5,7 @@ const streamLink = "https://webplayer-live.pages.dev/?url=https://live.tsports.c
 
 const menMatches = [
   {
-    id: "mi-vs-kkr",
+    id: "rcb-vs-gt",
     name: "Live Match 1",
     startTime: "18:00",
     endTime: "23:30",
