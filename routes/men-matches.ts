@@ -8,7 +8,7 @@ const menMatches = [
     name: "Live Match 1",
     startTime: "18:00",
     endTime: "23:30",
-    streamUrl: "/videos/willow-cricket-1.html",
+    streamUrl: "https://webplayer-live.pages.dev/?url=https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8",
     match: {
       team1: "Royal Challengers Bangalore",
       team2: "Gujarat Titans",
