@@ -5,15 +5,15 @@ const streamLink = "https://webplayer-live.pages.dev/?url=https://prod-ent-live-
 
 const menMatches = [
   {
-    id: "lsg-vs-mi",
+    id: "csk-vs-kkr",
     name: "Live Match 1",
     startTime: "19:00",
     endTime: "23:30",
     streamUrl: streamLink,
     match: {
-      team1: "Lucknow Super Giants",
-      team2: "Mumbai Indians",
-      date: "2025-04-04",
+      team1: "Chennai Super Kings",
+      team2: "Kolkata Knight Riders",
+      date: "2025-04-11",
       thumbnail: "https://www.fantasyarena.in/images/1644927202_ipl.jpg",
     },
   },
