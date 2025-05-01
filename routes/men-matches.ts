@@ -1,7 +1,7 @@
 import { Router } from "express";
 
 const router = Router();
-const streamLink = "https://user4580.ifrem.net/iframe/frame.php"; 
+const streamLink = "https://webplayer-live.pages.dev/?url=https://starsportseng.pages.dev/720p.m3u8"; 
 
 // date in yyyy-mm-dd format
 
