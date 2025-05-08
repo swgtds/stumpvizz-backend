@@ -24,7 +24,7 @@ const menMatches = [
   https://scontent.fccu10-1.fna.fbcdn.net/v/t39.30808-6/492036964_1063352119156657_8608233938897983591_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=i8qLCsBHU8oQ7kNvwGEdwlT&_nc_oc=AdmgR3CbCR4wq1zG0SDTA1mSjlGEZ4yyj6nqiY4NX0kuwPgTJ8RULP9QVWH_DH9D7cQ&_nc_zt=23&_nc_ht=scontent.fccu10-1.fna&_nc_gid=VAydXJwNF0oyfrf78bmxIw&oh=00_AfFhW-zA2zPkzTkDZxk8HBXs-XQSdIJmyIzjCncnUWalew&oe=68164CAA
   */
   {
-    id: "ipl-2025/lsg-vs-rcb",
+    id: "lsg-vs-rcb",
     name: "Live Match 1",
     startTime: "19:00",
     endTime: "23:45",
@@ -38,7 +38,7 @@ const menMatches = [
     },
   },
   {
-    id: "ipl-2025/srh-vs-kkr",
+    id: "srh-vs-kkr",
     name: "Live Match 2",
     startTime: "19:00",
     endTime: "23:45",
@@ -52,7 +52,7 @@ const menMatches = [
     },
   },
   {
-    id: "ipl-2025/pbks-vs-mi",
+    id: "pbks-vs-mi",
     name: "Live Match 3",
     startTime: "15:00",
     endTime: "19:20",
@@ -66,7 +66,7 @@ const menMatches = [
     },
   },
   {
-    id: "ipl-2025/dc-vs-gt",
+    id: "dc-vs-gt",
     name: "Live Match 4",
     startTime: "19:20",
     endTime: "23:45",
@@ -80,7 +80,7 @@ const menMatches = [
     },
   },
   {
-    id: "ipl-2025/csk-vs-rr",
+    id: "csk-vs-rr",
     name: "Live Match 5",
     startTime: "19:00",
     endTime: "23:45",
