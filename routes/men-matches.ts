@@ -26,13 +26,13 @@ const menMatches = [
   {
     id: "lsg-vs-rcb",
     name: "Live Match 1",
-    startTime: "19:00",
-    endTime: "23:45",
+    startTime: "",
+    endTime: "",
     streamUrl: streamLink,
     match: {
       team1: "Lucknow Super Giants",
       team2: "Royal Challengers Bengaluru",
-      date: "2025-05-09",      
+      date: "",      
       thumbnail: "https://www.hindustantimes.com/ht-img/img/2025/02/16/550x309/ipl-trophy-new-new_1651582336209_1739699060567.jpg",
       
     },
@@ -40,13 +40,13 @@ const menMatches = [
   {
     id: "srh-vs-kkr",
     name: "Live Match 2",
-    startTime: "19:00",
-    endTime: "23:45",
+    startTime: "",
+    endTime: "",
     streamUrl: streamLink,
     match: {
       team1: "Sunrisers Hyderabad",
       team2: "Kolkata Knight Riders",
-      date: "2025-05-10",      
+      date: "",      
       thumbnail: "https://www.hindustantimes.com/ht-img/img/2025/02/16/550x309/ipl-trophy-new-new_1651582336209_1739699060567.jpg",
       
     },
@@ -54,13 +54,13 @@ const menMatches = [
   {
     id: "pbks-vs-mi",
     name: "Live Match 3",
-    startTime: "15:00",
-    endTime: "19:20",
+    startTime: "",
+    endTime: "",
     streamUrl: streamLink,
     match: {
       team1: "Punjab Kings",
       team2: "Mumbai Indians",
-      date: "2025-05-11",      
+      date: "",      
       thumbnail: "https://www.hindustantimes.com/ht-img/img/2025/02/16/550x309/ipl-trophy-new-new_1651582336209_1739699060567.jpg",
       
     },
@@ -68,13 +68,13 @@ const menMatches = [
   {
     id: "dc-vs-gt",
     name: "Live Match 4",
-    startTime: "19:20",
-    endTime: "23:45",
+    startTime: "",
+    endTime: "",
     streamUrl: streamLink,
     match: {
       team1: "Delhi Capitals",
       team2: "Gujarat Titans",
-      date: "2025-05-11",      
+      date: "",      
       thumbnail: "https://www.hindustantimes.com/ht-img/img/2025/02/16/550x309/ipl-trophy-new-new_1651582336209_1739699060567.jpg",
       
     },
@@ -82,8 +82,8 @@ const menMatches = [
   {
     id: "csk-vs-rr",
     name: "Live Match 5",
-    startTime: "19:00",
-    endTime: "23:45",
+    startTime: "",
+    endTime: "",
     streamUrl: streamLink,
     match: {
       team1: "Chennai Super Kings",
