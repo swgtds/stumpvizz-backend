@@ -33,7 +33,7 @@ const menMatches = [
   streamUrl: streamLink,
   match: {
     team1: "Punjab Kings",
-    team2: "Royal Challengers Bengaluru",
+    team2: "Royal Challengers Bengaluru(Qualifier 1)",
     date: "2025-05-29",      
     thumbnail: "https://c.ndtvimg.com/2025-03/12lqsse8_ipl-trophy_625x300_21_March_25.jpeg?im=FitAndFill,algorithm=dnn,width=806,height=605",
     
@@ -47,7 +47,7 @@ const menMatches = [
   streamUrl: streamLink,
   match: {
     team1: "Gujarat Titans",
-    team2: "Mumbai Indians",
+    team2: "Mumbai Indians(Eliminator)",
     date: "2025-05-30",      
     thumbnail: "https://c.ndtvimg.com/2025-03/12lqsse8_ipl-trophy_625x300_21_March_25.jpeg?im=FitAndFill,algorithm=dnn,width=806,height=605",
     
