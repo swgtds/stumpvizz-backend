@@ -6,80 +6,6 @@ const streamLink = "https://userrr4591.ifrem.net/iframe/frame.php";
 // date in yyyy-mm-dd format
 
 const menMatches = [
-
-  {
-    id: "rcb-vs-kkr",
-    name: "Live match 1",
-    startTime: "19:00",
-    endTime: "23:45",
-    streamUrl: streamLink,
-    match: {
-      team1: "Royal Challengers Bengaluru",
-      team2: "Kolkata Knight Riders",  
-      date: "2025-05-17",      
-      thumbnail: "https://www.hindustantimes.com/ht-img/img/2025/02/16/550x309/ipl-trophy-new-new_1651582336209_1739699060567.jpg",
-      
-    },
-  },
-  {
-    id: "rr-vs-pbks",
-    name: "Live Match 2",
-    startTime: "15:00",
-    endTime: "19:20",
-    streamUrl: streamLink,
-    match: {
-      team1: "Rajasthan Royals",
-      team2: "Punjab Kings",
-      date: "2025-05-18",      
-      thumbnail: "https://www.hindustantimes.com/ht-img/img/2025/02/16/550x309/ipl-trophy-new-new_1651582336209_1739699060567.jpg",
-      
-    },
-  },
-  {
-    id: "dc-vs-gt",
-    name: "Live Match 2",
-    startTime: "19:20",
-    endTime: "23:45",
-    streamUrl: streamLink,
-    match: {
-      team1: "Delhi Capitals",
-      team2: "Gujarat Titans",
-      date: "2025-05-18",      
-      thumbnail: "https://www.hindustantimes.com/ht-img/img/2025/02/16/550x309/ipl-trophy-new-new_1651582336209_1739699060567.jpg",
-      
-    },
-  },
-  {
-    id: "lsg-vs-srh",
-    name: "Live Match 4",
-    startTime: "19:20",
-    endTime: "23:45",
-    streamUrl: streamLink,
-    match: {
-      team1: "Lucknow Super Giants",
-      team2: "Sunrisers Hyderabad",
-      date: "2025-05-19",      
-      thumbnail: "https://www.hindustantimes.com/ht-img/img/2025/02/16/550x309/ipl-trophy-new-new_1651582336209_1739699060567.jpg",
-      
-    },
-  },
-  {
-    id: "csk-vs-rr",
-    name: "Live Match 5",
-    startTime: "19:20",
-    endTime: "23:45",
-    streamUrl: streamLink,
-    match: {
-      team1: "Chennai Super Kings",
-      team2: "Rajasthan Royals",
-      date: "2025-05-20",      
-      thumbnail: "https://www.hindustantimes.com/ht-img/img/2025/02/16/550x309/ipl-trophy-new-new_1651582336209_1739699060567.jpg",
-      
-    },
-  },
-
-
-
   /*
   {
     id: "",
@@ -97,49 +23,36 @@ const menMatches = [
   },
   https://scontent.fccu10-1.fna.fbcdn.net/v/t39.30808-6/492036964_1063352119156657_8608233938897983591_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=i8qLCsBHU8oQ7kNvwGEdwlT&_nc_oc=AdmgR3CbCR4wq1zG0SDTA1mSjlGEZ4yyj6nqiY4NX0kuwPgTJ8RULP9QVWH_DH9D7cQ&_nc_zt=23&_nc_ht=scontent.fccu10-1.fna&_nc_gid=VAydXJwNF0oyfrf78bmxIw&oh=00_AfFhW-zA2zPkzTkDZxk8HBXs-XQSdIJmyIzjCncnUWalew&oe=68164CAA
   
-  {
-    id: "lsg-vs-rcb",
-    name: "Live Match 1",
-    startTime: "19:00",
-    endTime: "23:30",
-    streamUrl: streamLink,
-    match: {
-      team1: "Lucknow Super Giants",
-      team2: "Royal Challengers Bengaluru",
-      date: "",      
-      thumbnail: "https://www.hindustantimes.com/ht-img/img/2025/02/16/550x309/ipl-trophy-new-new_1651582336209_1739699060567.jpg",
-      
-    },
+  https://c.ndtvimg.com/2025-03/12lqsse8_ipl-trophy_625x300_21_March_25.jpeg?im=FitAndFill,algorithm=dnn,width=806,height=605
+  */
+{
+  id: "ipl-2025-qualifier-1",
+  name: "Qualifier 1",
+  startTime: "19:00",
+  endTime: "23:55",
+  streamUrl: streamLink,
+  match: {
+    team1: "Punjab Kings",
+    team2: "Royal Challengers Bengaluru",
+    date: "2025-05-29",      
+    thumbnail: "https://c.ndtvimg.com/2025-03/12lqsse8_ipl-trophy_625x300_21_March_25.jpeg?im=FitAndFill,algorithm=dnn,width=806,height=605",
+    
   },
-  {
-    id: "srh-vs-kkr",
-    name: "Live Match 2",
-    startTime: "",
-    endTime: "",
-    streamUrl: streamLink,
-    match: {
-      team1: "Sunrisers Hyderabad",
-      team2: "Kolkata Knight Riders",
-      date: "",      
-      thumbnail: "https://www.hindustantimes.com/ht-img/img/2025/02/16/550x309/ipl-trophy-new-new_1651582336209_1739699060567.jpg",
-      
-    },
+},
+{
+  id: "ipl-2025-eliminator",
+  name: "Eliminator",
+  startTime: "19:00",
+  endTime: "23:55",
+  streamUrl: streamLink,
+  match: {
+    team1: "Gujarat Titans",
+    team2: "Mumbai Indians",
+    date: "2025-05-30",      
+    thumbnail: "https://c.ndtvimg.com/2025-03/12lqsse8_ipl-trophy_625x300_21_March_25.jpeg?im=FitAndFill,algorithm=dnn,width=806,height=605",
+    
   },
-  {
-    id: "pbks-vs-mi",
-    name: "Live Match 3",
-    startTime: "",
-    endTime: "",
-    streamUrl: streamLink,
-    match: {
-      team1: "Punjab Kings",
-      team2: "Mumbai Indians",
-      date: "",      
-      thumbnail: "https://www.hindustantimes.com/ht-img/img/2025/02/16/550x309/ipl-trophy-new-new_1651582336209_1739699060567.jpg",
-      
-    },
-  },
-*/
+},
 ];
 router.get("/", (req, res) => {
   res.json(menMatches);
