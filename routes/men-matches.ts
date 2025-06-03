@@ -26,30 +26,16 @@ const menMatches = [
   https://c.ndtvimg.com/2025-03/12lqsse8_ipl-trophy_625x300_21_March_25.jpeg?im=FitAndFill,algorithm=dnn,width=806,height=605
   */
 {
-  id: "ipl-2025-qualifier-1",
-  name: "Qualifier 1",
+  id: "ipl-2025-final",
+  name: "IPL 2025 Final",
   startTime: "19:00",
   endTime: "23:55",
   streamUrl: streamLink,
   match: {
     team1: "Punjab Kings",
-    team2: "Royal Challengers Bengaluru(Qualifier 1)",
-    date: "2025-05-29",      
-    thumbnail: "https://c.ndtvimg.com/2025-03/12lqsse8_ipl-trophy_625x300_21_March_25.jpeg?im=FitAndFill,algorithm=dnn,width=806,height=605",
-    
-  },
-},
-{
-  id: "ipl-2025-eliminator",
-  name: "Eliminator",
-  startTime: "19:00",
-  endTime: "23:55",
-  streamUrl: streamLink,
-  match: {
-    team1: "Gujarat Titans",
-    team2: "Mumbai Indians(Eliminator)",
-    date: "2025-05-30",      
-    thumbnail: "https://c.ndtvimg.com/2025-03/12lqsse8_ipl-trophy_625x300_21_March_25.jpeg?im=FitAndFill,algorithm=dnn,width=806,height=605",
+    team2: "Royal Challengers Bengaluru(Final)",
+    date: "2025-06-03",      
+    thumbnail: "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/359/1748862930359-i",
     
   },
 },
